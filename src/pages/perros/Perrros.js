@@ -15,7 +15,7 @@ function Perros (){
         <div className="container mb-5">
             
             <div className="row">
-                <h1 className="text-center mt-4 fw-bold">Productos para perros</h1>
+                <h1 className="text-center mt-4 fw-bold">Razas</h1>
                 <div class="row row-cols-1 row-cols-md-3 g-4">
                     {
                         perros.map(p=>(

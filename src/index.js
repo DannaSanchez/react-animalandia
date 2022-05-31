@@ -12,7 +12,7 @@ import { BrowserRouter, Route, Routes } from 'react-router-dom';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL} >
       <Routes>
           <Route path='' element={<Perros/>} ></Route>
           <Route path='' element={<Perros/>} ></Route>

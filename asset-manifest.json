@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-animalandia/static/css/main.d284a459.css",
-    "main.js": "/react-animalandia/static/js/main.61b99704.js",
+    "main.js": "/react-animalandia/static/js/main.cc586754.js",
     "static/media/fondo.jpg": "/react-animalandia/static/media/fondo.6732ce654ea91f975480.jpg",
     "static/media/logo.jpg": "/react-animalandia/static/media/logo.8bba2df5f8edc1228c76.jpg",
     "index.html": "/react-animalandia/index.html",
     "main.d284a459.css.map": "/react-animalandia/static/css/main.d284a459.css.map",
-    "main.61b99704.js.map": "/react-animalandia/static/js/main.61b99704.js.map"
+    "main.cc586754.js.map": "/react-animalandia/static/js/main.cc586754.js.map"
   },
   "entrypoints": [
     "static/css/main.d284a459.css",
-    "static/js/main.61b99704.js"
+    "static/js/main.cc586754.js"
   ]
 }
